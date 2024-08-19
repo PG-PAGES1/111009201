@@ -1,0 +1,993 @@
+
+bg.png
+size: 1642,1521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg/putongjiemianbeijing
+  rotate: true
+  xy: 2, 763
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+bg/ui_01_glow_screen
+  rotate: true
+  xy: 2, 5
+  size: 756, 801
+  orig: 756, 801
+  offset: 0, 0
+  index: -1
+bg/ui_01b
+  rotate: false
+  xy: 1084, 297
+  size: 143, 144
+  orig: 144, 147
+  offset: 0, 1
+  index: -1
+bg/ui_01c
+  rotate: false
+  xy: 1591, 562
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+bg/ui_01d
+  rotate: false
+  xy: 1591, 596
+  size: 35, 37
+  orig: 36, 38
+  offset: 1, 0
+  index: -1
+bg/ui_01e
+  rotate: true
+  xy: 1313, 412
+  size: 29, 24
+  orig: 29, 25
+  offset: 0, 1
+  index: -1
+bg/ui_01f
+  rotate: false
+  xy: 805, 186
+  size: 169, 274
+  orig: 171, 275
+  offset: 1, 1
+  index: -1
+bg/ui_01g
+  rotate: false
+  xy: 805, 2
+  size: 120, 182
+  orig: 123, 184
+  offset: 2, 1
+  index: -1
+bg/ui_01h
+  rotate: true
+  xy: 1084, 224
+  size: 71, 127
+  orig: 73, 129
+  offset: 1, 1
+  index: -1
+bg/ui_01i
+  rotate: false
+  xy: 1313, 384
+  size: 25, 26
+  orig: 27, 27
+  offset: 1, 0
+  index: -1
+bg/ui_01j
+  rotate: true
+  xy: 927, 14
+  size: 46, 28
+  orig: 50, 33
+  offset: 2, 2
+  index: -1
+bg/ui_01k
+  rotate: false
+  xy: 805, 462
+  size: 278, 299
+  orig: 279, 301
+  offset: 0, 1
+  index: -1
+blue_light1/ui_light_screen_01_00
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_01
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_02
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_03
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_04
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_05
+  rotate: true
+  xy: 927, 62
+  size: 122, 40
+  orig: 540, 98
+  offset: 51, 31
+  index: -1
+blue_light1/ui_light_screen_01_06
+  rotate: true
+  xy: 1229, 319
+  size: 122, 36
+  orig: 540, 98
+  offset: 83, 36
+  index: -1
+blue_light1/ui_light_screen_01_07
+  rotate: true
+  xy: 1229, 319
+  size: 122, 36
+  orig: 540, 98
+  offset: 83, 36
+  index: -1
+blue_light1/ui_light_screen_01_08
+  rotate: true
+  xy: 1229, 319
+  size: 122, 36
+  orig: 540, 98
+  offset: 83, 36
+  index: -1
+blue_light1/ui_light_screen_01_09
+  rotate: true
+  xy: 1229, 319
+  size: 122, 36
+  orig: 540, 98
+  offset: 83, 36
+  index: -1
+blue_light1/ui_light_screen_01_10
+  rotate: true
+  xy: 1229, 319
+  size: 122, 36
+  orig: 540, 98
+  offset: 83, 36
+  index: -1
+blue_light1/ui_light_screen_01_11
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_12
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_13
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_14
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_15
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_16
+  rotate: false
+  xy: 1343, 599
+  size: 122, 34
+  orig: 540, 98
+  offset: 116, 38
+  index: -1
+blue_light1/ui_light_screen_01_17
+  rotate: false
+  xy: 1085, 443
+  size: 254, 72
+  orig: 540, 98
+  offset: 16, 0
+  index: -1
+blue_light1/ui_light_screen_01_18
+  rotate: false
+  xy: 1085, 443
+  size: 254, 72
+  orig: 540, 98
+  offset: 16, 0
+  index: -1
+blue_light1/ui_light_screen_01_19
+  rotate: false
+  xy: 1085, 443
+  size: 254, 72
+  orig: 540, 98
+  offset: 16, 0
+  index: -1
+blue_light1/ui_light_screen_01_20
+  rotate: false
+  xy: 1085, 443
+  size: 254, 72
+  orig: 540, 98
+  offset: 16, 0
+  index: -1
+blue_light1/ui_light_screen_01_21
+  rotate: false
+  xy: 1085, 443
+  size: 254, 72
+  orig: 540, 98
+  offset: 16, 0
+  index: -1
+blue_light1/ui_light_screen_01_22
+  rotate: false
+  xy: 1085, 517
+  size: 256, 72
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_23
+  rotate: false
+  xy: 1085, 517
+  size: 256, 72
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_24
+  rotate: false
+  xy: 1085, 517
+  size: 256, 72
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_25
+  rotate: false
+  xy: 1085, 517
+  size: 256, 72
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_26
+  rotate: false
+  xy: 1085, 517
+  size: 256, 72
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_27
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_28
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_29
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_30
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_31
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_32
+  rotate: true
+  xy: 976, 204
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_33
+  rotate: false
+  xy: 1085, 591
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_34
+  rotate: false
+  xy: 1085, 591
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_35
+  rotate: false
+  xy: 1085, 591
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_36
+  rotate: false
+  xy: 1085, 591
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_37
+  rotate: false
+  xy: 1085, 591
+  size: 256, 74
+  orig: 540, 98
+  offset: 15, 0
+  index: -1
+blue_light1/ui_light_screen_01_38
+  rotate: true
+  xy: 1267, 333
+  size: 108, 44
+  orig: 540, 98
+  offset: 34, 24
+  index: -1
+blue_light1/ui_light_screen_01_39
+  rotate: true
+  xy: 1267, 333
+  size: 108, 44
+  orig: 540, 98
+  offset: 34, 24
+  index: -1
+blue_light1/ui_light_screen_01_40
+  rotate: true
+  xy: 1267, 333
+  size: 108, 44
+  orig: 540, 98
+  offset: 34, 24
+  index: -1
+blue_light1/ui_light_screen_01_41
+  rotate: true
+  xy: 1267, 333
+  size: 108, 44
+  orig: 540, 98
+  offset: 34, 24
+  index: -1
+blue_light1/ui_light_screen_01_42
+  rotate: true
+  xy: 1267, 333
+  size: 108, 44
+  orig: 540, 98
+  offset: 34, 24
+  index: -1
+blue_light2/ui_light_screen_02_00
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_01
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_02
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_03
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_04
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_05
+  rotate: true
+  xy: 1084, 192
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light2/ui_light_screen_02_06
+  rotate: false
+  xy: 1052, 188
+  size: 30, 272
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_07
+  rotate: false
+  xy: 1052, 188
+  size: 30, 272
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_08
+  rotate: false
+  xy: 1052, 188
+  size: 30, 272
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_09
+  rotate: false
+  xy: 1052, 188
+  size: 30, 272
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_10
+  rotate: false
+  xy: 1052, 188
+  size: 30, 272
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_11
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_12
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_13
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_14
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_15
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_16
+  rotate: true
+  xy: 1085, 699
+  size: 30, 306
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_17
+  rotate: true
+  xy: 1085, 731
+  size: 30, 308
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_18
+  rotate: true
+  xy: 1085, 731
+  size: 30, 308
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_19
+  rotate: true
+  xy: 1085, 731
+  size: 30, 308
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_20
+  rotate: true
+  xy: 1085, 731
+  size: 30, 308
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_21
+  rotate: true
+  xy: 1085, 731
+  size: 30, 308
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_22
+  rotate: true
+  xy: 1085, 667
+  size: 30, 304
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_23
+  rotate: true
+  xy: 1085, 667
+  size: 30, 304
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_24
+  rotate: true
+  xy: 1085, 667
+  size: 30, 304
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_25
+  rotate: true
+  xy: 1085, 667
+  size: 30, 304
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_26
+  rotate: true
+  xy: 1085, 667
+  size: 30, 304
+  orig: 64, 1170
+  offset: 12, 760
+  index: -1
+blue_light2/ui_light_screen_02_27
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_28
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_29
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_30
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_31
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_32
+  rotate: true
+  xy: 1343, 635
+  size: 30, 284
+  orig: 64, 1170
+  offset: 12, 780
+  index: -1
+blue_light2/ui_light_screen_02_33
+  rotate: true
+  xy: 1343, 567
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 813
+  index: -1
+blue_light2/ui_light_screen_02_34
+  rotate: true
+  xy: 1343, 567
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 813
+  index: -1
+blue_light2/ui_light_screen_02_35
+  rotate: true
+  xy: 1343, 567
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 813
+  index: -1
+blue_light2/ui_light_screen_02_36
+  rotate: true
+  xy: 1343, 567
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 813
+  index: -1
+blue_light2/ui_light_screen_02_37
+  rotate: true
+  xy: 1343, 567
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 813
+  index: -1
+blue_light2/ui_light_screen_02_38
+  rotate: true
+  xy: 1467, 603
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 845
+  index: -1
+blue_light2/ui_light_screen_02_39
+  rotate: true
+  xy: 1467, 603
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 845
+  index: -1
+blue_light2/ui_light_screen_02_40
+  rotate: true
+  xy: 1467, 603
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 845
+  index: -1
+blue_light2/ui_light_screen_02_41
+  rotate: true
+  xy: 1467, 603
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 845
+  index: -1
+blue_light2/ui_light_screen_02_42
+  rotate: true
+  xy: 1467, 603
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 845
+  index: -1
+blue_light3/ui_light_screen_03_00
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_01
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_02
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_03
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_04
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_05
+  rotate: true
+  xy: 1343, 535
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 877
+  index: -1
+blue_light3/ui_light_screen_03_06
+  rotate: true
+  xy: 1467, 571
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 909
+  index: -1
+blue_light3/ui_light_screen_03_07
+  rotate: true
+  xy: 1467, 571
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 909
+  index: -1
+blue_light3/ui_light_screen_03_08
+  rotate: true
+  xy: 1467, 571
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 909
+  index: -1
+blue_light3/ui_light_screen_03_09
+  rotate: true
+  xy: 1467, 571
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 909
+  index: -1
+blue_light3/ui_light_screen_03_10
+  rotate: true
+  xy: 1467, 571
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 909
+  index: -1
+blue_light3/ui_light_screen_03_11
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_12
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_13
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_14
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_15
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_16
+  rotate: true
+  xy: 1467, 539
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 943
+  index: -1
+blue_light3/ui_light_screen_03_17
+  rotate: true
+  xy: 1395, 731
+  size: 30, 244
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_18
+  rotate: true
+  xy: 1395, 731
+  size: 30, 244
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_19
+  rotate: true
+  xy: 1395, 731
+  size: 30, 244
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_20
+  rotate: true
+  xy: 1395, 731
+  size: 30, 244
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_21
+  rotate: true
+  xy: 1395, 731
+  size: 30, 244
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_22
+  rotate: true
+  xy: 1393, 699
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_23
+  rotate: true
+  xy: 1393, 699
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_24
+  rotate: true
+  xy: 1393, 699
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_25
+  rotate: true
+  xy: 1393, 699
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_26
+  rotate: true
+  xy: 1393, 699
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_27
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_28
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_29
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_30
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_31
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_32
+  rotate: true
+  xy: 1391, 667
+  size: 30, 242
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_33
+  rotate: true
+  xy: 1467, 507
+  size: 30, 112
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_34
+  rotate: true
+  xy: 1467, 507
+  size: 30, 112
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_35
+  rotate: true
+  xy: 1467, 507
+  size: 30, 112
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_36
+  rotate: true
+  xy: 1467, 507
+  size: 30, 112
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_37
+  rotate: true
+  xy: 1467, 507
+  size: 30, 112
+  orig: 64, 1170
+  offset: 12, 823
+  index: -1
+blue_light3/ui_light_screen_03_38
+  rotate: true
+  xy: 1343, 503
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 846
+  index: -1
+blue_light3/ui_light_screen_03_39
+  rotate: true
+  xy: 1343, 503
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 846
+  index: -1
+blue_light3/ui_light_screen_03_40
+  rotate: true
+  xy: 1343, 503
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 846
+  index: -1
+blue_light3/ui_light_screen_03_41
+  rotate: true
+  xy: 1343, 503
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 846
+  index: -1
+blue_light3/ui_light_screen_03_42
+  rotate: true
+  xy: 1343, 503
+  size: 30, 122
+  orig: 64, 1170
+  offset: 12, 846
+  index: -1
